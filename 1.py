@@ -2,13 +2,17 @@ import urllib.request
 import re
 import os
 import requests
-
+import sys
 
 def get_path_to_file():
-    return "/home/pyatka_jeka/comicses-links"
+    if (len(sys.argv) == 1):
+        return "/home/pyatka_jeka/comicses-links"
+    else:
+        return str(sys.argv[1])
+
 
 #TODO: make it asyncio
-#TODO: make requirements.txt, add args
+#TODO: make requirements.txt
 
 def main():
     with open(get_path_to_file(), "r") as f:
