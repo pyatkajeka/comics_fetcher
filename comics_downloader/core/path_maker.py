@@ -3,7 +3,7 @@ import re
 
 
 def make_dictionary(list_with_links):
-    links = list(map(lambda x: x.replace('\n', '').split(' - '), list_with_links))
+    links = map(lambda x: x.replace('\n', '').split(' - '), list_with_links)
     dict_with_comicses_links = {
         left_link: re.search("([0-9]+)$", right_link.strip()).group(1)
         for left_link, right_link in links
