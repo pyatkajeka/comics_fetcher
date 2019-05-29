@@ -1,0 +1,267 @@
+
+<!DOCTYPE html><html>
+<head>
+	<meta charset=utf-8>
+	<link rel="shortcut icon" href="https://acomics.ru/favicon.ico?18-07-2014v2" />
+	<link rel="stylesheet" href="/design/common/css/reset.css?18-07-2014" type="text/css" />
+	<link rel="stylesheet" href="/design/common/css/common.css?10-03-2018" type="text/css" />
+	<script type="text/javascript" src="/design/common/js/jqueryplus.js?21-07-2014"></script>
+	<script type="text/javascript" src="/design/common/js/common.js?10-03-2018"></script>
+	<script type="text/javascript" src="/design/main/js/serial.js?16-05-2015b"></script>
+	<link rel="stylesheet" href="/design/main/css/serial.css?13-06-2016" type="text/css" />
+	<link rel='alternate' type='application/rss+xml' title='WHITEWATER' href='/~whitewater/rss' />
+	<meta property="og:title" content="WHITEWATER" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="/upload/b/b5975-5ye8an05xc.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:width" content="160" />
+	<meta property="og:image:height" content="90" />
+	<meta property="og:url" content="https://acomics.ru/~whitewater" />
+	<meta property="og:description" content="Кейган Нерра отправляется на поиски своей пропавшей сестры, сталкиваясь с новыми неприятностями." />
+	<script type="text/javascript">
+		$(function(){
+			if(typeof localStorage != 'undefined') {
+				var commentsRead = localStorage.getItem('commentsRead') || '{}';
+				commentsRead = JSON.parse(commentsRead);
+				var idQ = $('#serial_id'), currDateQ = $('.comment .time:last');
+				if(idQ.length != 1 || currDateQ.length == 0) return;
+				var id = idQ.val(), newVal = currDateQ.attr('data-value');
+				if((commentsRead['c' + id] || 0) < newVal) {
+					commentsRead['c' + id] = newVal;
+					localStorage.setItem('commentsRead', JSON.stringify(commentsRead));
+				}
+			}
+		});
+	</script>
+<title>Комикс WHITEWATER на русском читать онлайн на сайте Авторский Комикс</title><meta name="description" content="Комикс WHITEWATER за авторством E. Hanby &amp; Daniel Rowley, переведенный на русский, опубликованный переводчиком на сайте Авторский Комикс, можно бесплатно читать онлайн. Кейган Нерра отправляется на поиски своей пропавшей сестры, сталкиваясь с новыми неприятностями." /><meta name="keywords" content="whitewater, читать комикс WHITEWATER, WHITEWATER онлайн, авторский комикс, комикс бесплатно, WHITEWATER на русском" /></head>
+<body>
+
+<div class="googleAnalytics"><noindex><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12029808-4']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script></noindex></div>
+<!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter23584504 = new Ya.Metrika({id:23584504, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/23584504" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+	<div id="background">
+	<script type="text/javascript">
+	var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+	if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled)
+	{ document.cookie="testcookie"; cookieEnabled = (document.cookie.indexOf("testcookie") != -1) ? true : false; }
+	if(cookieEnabled){ $("div.nav-log-or-reg input[name='check']").val("1"); }
+	</script>
+	
+	<header id="common"><div class="inner">
+		<div class="left"></div><div class="right"><a class="pin unpin" href="#" onclick="pinClick(); return false"></a></div>
+		<table><tr>
+			<td class="logo"><a href="/" title="Авторский Комикс: публикация комиксов на русском языке"><img src="/design/common/pic/logo.png?18-07-2014" width="188" height="40" class="logo" alt="Авторский Комикс"></a></td>
+			<td class="nainmenu">				<nav>
+					<a href="/comics">Каталог<span></span></a>
+					<a href="/live">Прямой эфир<span></span></a>
+					<a href="/profile/featured">Лента<span></span></a>
+					<a href="http://top.a-comics.ru/" class="ext" target="_blank">Рейтинг комиксов<span></span></a>
+					<a href="http://webcomunity.net/" class="ext" target="_blank">WebComUnity<span></span></a>
+					<a href="/forum/" class="ext" target="_blank">Форум<span></span></a>
+				</nav>
+			</td>
+			<td class="usermenu">
+<a href="/auth/login" onclick="$('section#auth').toggle(); return false;" class="login">Вход</a> &nbsp; <a href="/auth/reg">Регистрация</a>			</td>
+			<td class="avatar"><a href="/auth/reg" class="avatar">
+				<img src="/design/common/pic/avatar-stub.png" />
+				<div class="circle"></div>
+			</a></td>
+		</tr></table>
+	</div></header>
+	
+	<section id="auth">
+		<div class="inner">
+			<form method="POST" action="/action/authLogin">
+				<label for="username">Имя пользователя:</label>
+				<input name="username" type="text" class="text" />
+				<label for="password">Пароль:</label>
+				<input name="password" type="password" class="text" />
+				<input name="check" type="hidden" value="0" />
+				<input name="referer" type="hidden" value="" />
+				<span class="forget"><a href="/auth/passwordRecovery">Забыли пароль?</a></span>
+				<button name="submit" type="submit" class="submit" value="login">Войти</button>
+			</form>
+		</div>
+	</section>
+	
+	<script type="text/javascript">
+		$('section#auth').click(function(){ $('section#auth').toggle(); return false; });
+		$('section#auth form').click(function(event){ event.stopPropagation(); });
+		
+		var cookieEnabled = (navigator.cookieEnabled) ? true : false;
+		if (typeof navigator.cookieEnabled == "undefined" && !cookieEnabled)
+		{ document.cookie="testcookie"; cookieEnabled = (document.cookie.indexOf("testcookie") != -1) ? true : false; }
+		if(cookieEnabled){ $("section#auth input[name='check']").val("1"); }
+	</script>
+<div>&nbsp;</div>	<div id="container">
+	<header class="serial"> 
+		<a href="https://acomics.ru/~whitewater" title="Комикс WHITEWATER на русском читать онлайн на сайте Авторский Комикс"><img src="/upload/header/h5975-ja5n3.png" alt="WHITEWATER"></a>
+	</header>
+	
+	<nav class="serial">
+		<a href="#" class="subscribe" serialId="5975" title="Подписаться"></a>		<table><tr>
+			<td><a class="read1" href="/~whitewater/1" title="Читать комикс WHITEWATER с первого выпуска">Читать с начала</a> / 
+				<a class="read2" href="/~whitewater/104" title="Читать комикс WHITEWATER с последнего выпуска">с конца</a> / 
+				<a class="read3" href="/~whitewater/list" title="Смотреть комикс WHITEWATER лентой">лентой</a></td>
+			<td><a href="/~whitewater/about" title="О комиксе WHITEWATER читать">О комиксе</a></td>
+			<td><a href="/~whitewater/content" title="Содержание комикса WHITEWATER на сайте Авторский Комикс">Содержание</a></td>
+			<td><a href="/~whitewater/comment" title="Комментарии к комиксу WHITEWATER">Комментарии</a></td>
+			<td><a href="/~whitewater/banner">Баннеры</a></td>
+			<td><a href="/~whitewater/rss" title="RSS-канал" class="rss"><span class="icon icon-rss"></span>RSS</a></td>
+		</tr></table>
+	</nav>
+	<section id="content">
+		<input type="hidden" id="serial_id" value="5975" />
+
+	<div class="serial-nomargin">
+		<h3 class="serial">
+			<span class="issueName">ГЛАВА 1</span>&nbsp; 
+			<span class="issueNumber">1/104</span>
+<a href="https://acomics.ru/~whitewater/2"> &nbsp;&rarr;</a>		</h3>
+		
+		<section class="issue">
+<a class="next" href="https://acomics.ru/~whitewater/2" />			<img id="mainImage" src="/upload/!c/Deer/whitewater/000001-n58yq3wk7v.jpg" alt="ГЛАВА 1"  onload="mainImageLoad()"/>
+			
+			<img src="/design/common/pic/download.png" class="blank-img"  />
+<span class="arrow"></span></a>		</section>
+
+	<nav class="issue"><table><tr><td width="250" style="text-align:left"><span class="button side"><a href="https://acomics.ru/~whitewater/content"><span class="icon icon-content"></span> Содержание</a></span></td><td style="text-align:center;"><span class="button inactive"><span class="icon icon-first"></span></span><span class="button inactive large"><span class="icon icon-prev"></span></span><span class="button center"><a href="#" onclick="jumpTo('https://acomics.ru/~whitewater',104); return false;">1/104</a></span><a href="https://acomics.ru/~whitewater/2" class="button large comic-nav-next"><span class="icon icon-next"></span></a><a href="https://acomics.ru/~whitewater/104" class="button"><span class="icon icon-last"></span></a></td><td width="250" style="text-align:right"><span class="button side"><a href="#" onclick="jumpRandom('https://acomics.ru/~whitewater',104); return false;"><span class="icon icon-random"></span> Случайный выпуск</a></span></td></tr></table></nav><script type="text/javascript">$(function () {
+	$(document).keydown(function(e) {
+		var url = false;
+		if($('input:focus, textarea:focus').length) return;
+		if (e.which == 37) {
+			url = $('a.comic-nav-prev').attr('href');
+		} else if (e.which == 39) {
+			url = $('a.comic-nav-next').attr('href');
+		}
+		if (url) { window.location = url; }
+	});
+});</script>	
+	</div>
+	
+	<div id="contentSide" class="contentSerial"><div class="inner">
+		        <div style="height:250px; background:url('/design/common/pic/please302.jpg') -1px 15px no-repeat;">
+
+			<!-- Яндекс.Директ -->
+			<div id="yandex_ad"></div>
+			<script type="text/javascript">
+			(function(w, d, n, s, t) {
+			    w[n] = w[n] || [];
+			    w[n].push(function() {
+			        Ya.Direct.insertInto(143314, "yandex_ad", {
+			            ad_format: "direct",
+			            type: "300x250",
+			            border_type: "ad",
+			            border_radius: true,
+			            links_underline: true,
+			            site_bg_color: "FFFFFF",
+			            header_bg_color: "FEEAC7",
+			            bg_color: "FFFFFF",
+			            border_color: "FBE5C0",
+			            title_color: "0000CC",
+			            url_color: "006600",
+			            text_color: "000000",
+			            hover_color: "0066FF",
+			            sitelinks_color: "0000CC",
+			            favicon: true,
+			            no_sitelinks: false
+			        });
+			    });
+			    t = d.getElementsByTagName("script")[0];
+			    s = d.createElement("script");
+			    s.src = "//an.yandex.ru/system/context.js";
+			    s.type = "text/javascript";
+			    s.async = true;
+			    t.parentNode.insertBefore(s, t);
+			})(window, document, "yandex_context_callbacks");
+			</script>
+
+        </div>
+    		<div class="gap">&nbsp;</div>
+		<div class="serial-description">
+			<b>WHITEWATER</b>
+			<div class="s-gap"></div>Кейган Нерра отправляется на поиски своей пропавшей сестры, сталкиваясь с новыми неприятностями.			<div class="s-gap"></div><b>Автор оригинала:</b> E. Hanby &amp; Daniel Rowley						<div class="s-gap"></div>
+			<b>Официальный сайт:</b> <a href="http://whitewatercomic.com/">http://whitewatercomic.com/</a>
+			<div class="s-gap"></div>
+			<b>Переводчик:</b> <a href="/-Deer">Deer</a> 			<div class="s-gap"></div>
+			<table><tr><td>
+				<p class="license"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.ru"><img class="licenseImage" src="/upload/ref/license/id6-88sdx.png"></a></p>			</td><td>
+				<a href="/rating">
+				<img src="/upload/ref/rating/id3-3uwpg.png" alt="Parental guidance suggested (Не рекомендуется лицам до 10 лет)" />				</a>
+			</td></tr></table>
+			<div class="goUp"><a href="#" onclick="goUp(); return false;">Наверх &uarr;</a></div>
+		</div>
+	</div></div>
+		
+	<div id="contentMargin" class="contentSerial">
+		<article class="authors">
+			<a href="/-Deer" class="avatar" title="Автор"><img src="/upload/avatar/id20591-zcdd43onvr.png" /></a>
+			<div class="info">
+				<a href="/-Deer" class="username">Deer</a>
+				<span class="title">ГЛАВА 1</span>&nbsp;
+				<span class="time">=27913654</span>
+			</div>			
+
+			<div class="description"><p> <em>"Добро пожаловать в WHITEWATER! Мы уже в беде."</em>
+</p>
+<p>
+	 <em>Наш первый комикс, на который был заключен настоящий договор! Мы официальные лицензиаты WHITEWATER в России!<br /></em> 
+</p>
+<hr /><p>
+	 <a href="https://vk.com/keepersoftimerus">Группа переводчиков</a> <a href="https://acomics.ru/-Deer/serial">Другие наши переводы</a>  
+</p>
+ 
+<p>
+	 Блок автора: 
+</p>
+ 
+<p>
+	 <a href="https://twitter.com/hanbydesign">Twitter</a> <a href="https://hanby.design">Портфолио</a> <a href="http://the-efaf-draws.tumblr.com">Tumblr</a> <a href="https://www.youtube.com/user/TheEFAF">YouTube канал</a><br /></p>
+ 
+<p>
+	 <span style="font-family:Arial, Geneva, Tahoma, sans-serif;"><span style="font-size:13.3333px;background-color:rgb(255,255,255);">Став <span style="font-family:Arial, Geneva, Tahoma, sans-serif;font-size:13.3333px;background-color:rgb(255,255,255);">патроном</span> E.Hanby, вы получите доступ ко множеству контента, предоставляемого исключительно "покровителям". Скетчи, видео с процессом рисования, страницы раньше срока выхода, информация о персонажах и многое другое. Если вы хотите поддержать авторов, переходите на их <a href="https://www.patreon.com/ehanby">Patreon</a>. </span></span> 
+</p>
+ 
+<p>
+	 <span style="font-family:Arial, Geneva, Tahoma, sans-serif;"><span style="font-size:13.3333px;background-color:rgb(255,255,255);">Автор также является создателем <a href="http://blackpeakcomic.com">"BLACK PEAK"</a>, еще одного научно-фантастического веб-комикса о изоляции и одержимости в космосе.</span></span> 
+</p></div>
+			<div class="also">
+							</div>
+
+			
+			<div class="social">
+				<span class="original">[<a href="http://whitewatercomic.com/comic/1" target="_blank">Оригинал</a>]</span>								<script type="text/javascript">
+  window.vkAsyncInit = function() { if(window.vkInited) return; window.vkInited = 1; VK.init({apiId: 4011533, onlyWidgets: true}); VK.Widgets.Like("vk_like", {type: "mini"}); };
+  $(function() {
+    $('<script>', { type: "text/javascript", src: "//vk.com/js/api/openapi.js?146", async: true }).appendTo('body');
+  });
+</script>
+<div id="vk_like"></div>
+			</div>
+		</article>
+<div class="commentFormDisabled">Переводчик закрыл(а) возможность оставлять комментарии для гостей.</div>	</div>
+
+
+	<div class="clear"></div>
+	</section>
+		<footer id="common"><div class="inner">
+			<form class="quickSearch" method="GET" action="/search">
+				<input type="text" class="text" name="keyword" value="" placeholder="Найти комикс" pattern=".{3,}" title="Минимальное количество символов для поиска: 3" />
+				<button type="submit" class="submit"><span></span></button>
+			</form>
+			<a href="/" class="logo"></a>
+			<div class="copyright">&copy; 2008&ndash;2019 «Авторский Комикс». Права на все работы, размещенные на сайте, принадлежат их авторам.
+				<br /><a href="/about">О проекте</a> &nbsp; <a href="/rules">Правила портала</a> &nbsp; <a href="/contact">Контактная информация</a></div>
+		</div></footer>
+	</div></div>
+
+</body>
+</html>
