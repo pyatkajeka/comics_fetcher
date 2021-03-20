@@ -6,7 +6,7 @@ decorator==4.4.0
 Django==2.2.1
 Flask==1.0.3
 jedi==0.13.3
-Jinja2==2.10.1
+Jinja2==2.11.3
 parso==0.4.0
 postgres==2.2.2
 prompt-toolkit==2.0.9
